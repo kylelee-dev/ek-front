@@ -1,0 +1,13 @@
+.header {
+  max-width: 768px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 6px;
+
+  .user__btns {
+    .btn {
+      padding: 0 6px;
+    }
+  }
+}
